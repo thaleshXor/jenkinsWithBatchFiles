@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Popup "Hello world!!", 3, "self destructive messge"
